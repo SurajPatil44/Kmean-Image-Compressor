@@ -1,4 +1,4 @@
-from Kmean_Image_Compresser_refact import KmeanImageCompressor
+from Kmean_Image_compresser_refact import KmeanImageCompressor
 
 path = r'./data/test_im_flower.jpeg'
 
